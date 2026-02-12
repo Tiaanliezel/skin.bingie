@@ -1,6 +1,6 @@
 # Bingie
 
-Kodi skin with Netflix layout and rounder poster and landscape views.
+Kodi skin with Netflix layout and rounded poster and landscape views.
 ![image1](https://github.com/user-attachments/assets/c0ed78ef-6e53-4887-b63e-34ef5d3dd092)
 ![image2](https://github.com/user-attachments/assets/1311b992-ffd6-4f04-9f39-9e3dbe4b0619)
 ![image3](https://github.com/user-attachments/assets/afd47c43-8970-4f29-9e8a-0ad55ff410b5)
